@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1465799095 source:c:\users\mido\desktop\master s3\5-synthèse d’image\my project\az\test\list.cpp
+	"list.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1465799269 c:\users\mido\desktop\master s3\5-synthèse d’image\my project\az\test\list.h
+
+1465799961 source:c:\users\mido\desktop\master s3\5-synthèse d’image\my project\az\test\obj_parser.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"obj_parser.h"
+	"list.h"
+	"string_extra.h"
+
+1465799292 c:\users\mido\desktop\master s3\5-synthèse d’image\my project\az\test\obj_parser.h
+	"list.h"
+
+1465799370 c:\users\mido\desktop\master s3\5-synthèse d’image\my project\az\test\string_extra.h
+
+1465799173 source:c:\users\mido\desktop\master s3\5-synthèse d’image\my project\az\test\objloader.cpp
+	"objLoader.h"
+	"obj_parser.h"
+
+1465799347 c:\users\mido\desktop\master s3\5-synthèse d’image\my project\az\test\objloader.h
+	"obj_parser.h"
+
+1465799460 source:c:\users\mido\desktop\master s3\5-synthèse d’image\my project\az\test\objtester.cpp
+	<stdio.h>
+	"objLoader.h"
+
+1465799232 source:c:\users\mido\desktop\master s3\5-synthèse d’image\my project\az\test\string_extra.cpp
+	"string_extra.h"
+	<string.h>
+
+1465831426 source:c:\users\mido\desktop\master s3\5-synthèse d’image\my project\az\test\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	"objLoader.h"
+	<math.h>
+
+1465799095 source:c:\users\mido\desktop\master s3\4-synthèse d’image\test\list.cpp
+	"list.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1465799269 c:\users\mido\desktop\master s3\4-synthèse d’image\test\list.h
+
+1466003577 source:c:\users\mido\desktop\master s3\4-synthèse d’image\test\main.cpp
+	<stdio.h>
+	"objLoader.h"
+
+1465799347 c:\users\mido\desktop\master s3\4-synthèse d’image\test\objloader.h
+	"obj_parser.h"
+
+1465874623 c:\users\mido\desktop\master s3\4-synthèse d’image\test\obj_parser.h
+	"list.h"
+
+1466002743 source:c:\users\mido\desktop\master s3\4-synthèse d’image\test\obj_parser.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"obj_parser.h"
+	"list.h"
+	"string_extra.h"
+
+1465799370 c:\users\mido\desktop\master s3\4-synthèse d’image\test\string_extra.h
+
+1465799173 source:c:\users\mido\desktop\master s3\4-synthèse d’image\test\objloader.cpp
+	"objLoader.h"
+	"obj_parser.h"
+
+1465799232 source:c:\users\mido\desktop\master s3\4-synthèse d’image\test\string_extra.cpp
+	"string_extra.h"
+	<string.h>
+
+1466000362 source:c:\users\mido\desktop\master s3\4-synthèse d’image\test\testobj.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<String.h>
+	"formes.h"
+	"objLoader.h"
+
+1466001215 c:\users\mido\desktop\master s3\4-synthèse d’image\test\formes.h
+	<GL/gl.h>
+	<math.h>
+	"texte.h"
+	"objLoader.h"
+	"SOIL.h"
+
+1465831612 c:\users\mido\desktop\master s3\4-synthèse d’image\test\texte.h
+	<GL/glut.h>
+	<GL/gl.h>
+
+1215450808 c:\users\mido\desktop\master s3\4-synthèse d’image\test\soil.h
+
